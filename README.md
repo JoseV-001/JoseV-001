@@ -1,6 +1,6 @@
 # Hello, my name is José Victor 👋
 
-![JoseV-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseV-001&show_icons=true&theme=radical)
+![JoseV-001 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseV-001&show_icons=true&theme=dark)
 
 # Skills 🚀
 
