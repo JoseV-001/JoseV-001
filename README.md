@@ -1,16 +1,16 @@
 # 👋 Hello, my name is José Victor  
-Backend Developer focused on Java, Spring Boot, and MySQL.
+#### Backend Developer focused on Java, Spring Boot, and MySQL.
 
 ---
-
-## 📊 GitHub Overview
+<!--//https://github-profile-summary-cards.vercel.app/demo.html-->
+## 📊 GitHub Overview 
 
 ### 🔍 Profile Details
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseV-001&theme=tokyonight)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseV-001&theme=dark)
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseV-001&theme=tokyonight)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseV-001&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseV-001&theme=dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseV-001&theme=dark)
 
 ---
 
