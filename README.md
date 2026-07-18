@@ -1,5 +1,5 @@
 # 👋 Hello, my name is José Victor  
-#### Backend Developer focused on Java, Spring Boot, and MySQL.
+#### Backend Developer focused on Java, Spring Boot, MySQL and PostgreSQL.
 
 ---
 <!--//https://github-profile-summary-cards.vercel.app/demo.html-->
