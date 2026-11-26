@@ -73,44 +73,28 @@
 
 ### 🛠️ Tech Stack
 
-**Backend & AI**  
-![Java](https://img.shields.io/badge/Java-1E1B4B?style=for-the-badge&logo=openjdk&logoColor=C084FC)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E1B4B?style=for-the-badge&logo=springboot&logoColor=C084FC)
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,nextjs,ts,js,html,css,postgres,redis,mysql&perline=12" alt="Core Stack" />
+</a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,docker,aws,linux,githubactions,maven,idea,vscode,postman,git&perline=11" alt="Databases, DevOps & Tools" />
+</a>
+
+<br/><br/>
+
 ![Spring Security](https://img.shields.io/badge/Spring_Security-1E1B4B?style=for-the-badge&logo=springsecurity&logoColor=C084FC)
-![Hibernate](https://img.shields.io/badge/Hibernate_&_JPA-1E1B4B?style=for-the-badge&logo=hibernate&logoColor=C084FC)
-![Python](https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=C084FC)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1B4B?style=for-the-badge&logo=fastapi&logoColor=C084FC)
-![Gemini](https://img.shields.io/badge/Gemini_AI-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=C084FC)
-
-**Frontend & Web**  
-![Next.js](https://img.shields.io/badge/Next.js-1E1B4B?style=for-the-badge&logo=nextdotjs&logoColor=C084FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1B4B?style=for-the-badge&logo=typescript&logoColor=C084FC)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1B4B?style=for-the-badge&logo=javascript&logoColor=C084FC)
-![HTML5](https://img.shields.io/badge/HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=C084FC)
-![CSS3](https://img.shields.io/badge/CSS3-1E1B4B?style=for-the-badge&logo=css3&logoColor=C084FC)
-
-**Databases & Migrations**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1B4B?style=for-the-badge&logo=postgresql&logoColor=C084FC)
-![Redis](https://img.shields.io/badge/Redis-1E1B4B?style=for-the-badge&logo=redis&logoColor=C084FC)
-![MySQL](https://img.shields.io/badge/MySQL-1E1B4B?style=for-the-badge&logo=mysql&logoColor=C084FC)
-![SQLite](https://img.shields.io/badge/SQLite-1E1B4B?style=for-the-badge&logo=sqlite&logoColor=C084FC)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E1B4B?style=for-the-badge&logo=mongodb&logoColor=C084FC)
+![Hibernate & JPA](https://img.shields.io/badge/Hibernate_&_JPA-1E1B4B?style=for-the-badge&logo=hibernate&logoColor=C084FC)
 ![Flyway](https://img.shields.io/badge/Flyway-1E1B4B?style=for-the-badge&logo=flyway&logoColor=C084FC)
-
-**Containers, Cloud & Testing**  
-![Docker](https://img.shields.io/badge/Docker-1E1B4B?style=for-the-badge&logo=docker&logoColor=C084FC)
-![AWS](https://img.shields.io/badge/AWS-1E1B4B?style=for-the-badge&logo=amazonaws&logoColor=C084FC)
-![Linux](https://img.shields.io/badge/Linux-1E1B4B?style=for-the-badge&logo=linux&logoColor=C084FC)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E1B4B?style=for-the-badge&logo=githubactions&logoColor=C084FC)
 ![JUnit](https://img.shields.io/badge/JUnit-1E1B4B?style=for-the-badge&logo=junit5&logoColor=C084FC)
-![k6](https://img.shields.io/badge/Grafana_k6-1E1B4B?style=for-the-badge&logo=k6&logoColor=C084FC)
-![Maven](https://img.shields.io/badge/Maven-1E1B4B?style=for-the-badge&logo=apachemaven&logoColor=C084FC)
+![Grafana k6](https://img.shields.io/badge/Grafana_k6-1E1B4B?style=for-the-badge&logo=k6&logoColor=C084FC)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=C084FC)
 
-**Tools & Workflow**  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1E1B4B?style=for-the-badge&logo=intellijidea&logoColor=C084FC)
-![VS Code](https://img.shields.io/badge/VS_Code-1E1B4B?style=for-the-badge&logo=visualstudiocode&logoColor=C084FC)
-![Postman](https://img.shields.io/badge/Postman-1E1B4B?style=for-the-badge&logo=postman&logoColor=C084FC)
-![Git](https://img.shields.io/badge/Git-1E1B4B?style=for-the-badge&logo=git&logoColor=C084FC)
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:8b5cf6,100:0d1117" width="100%" />
 
