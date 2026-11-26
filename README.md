@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:2e1065,100:6d28d9&height=210&section=header&text=Jos%C3%A9%20Victor&fontSize=52&fontColor=f3e8ff&animation=fadeIn&fontAlignY=38" width="100%" alt="José Victor Banner" />
 
 <a href="https://github.com/JoseV-001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=680&lines=Backend+Developer+%E2%80%A2+Java+%26+Spring+Boot;REST+APIs%2C+Batch+Pipelines+%26+AI+Microservices;Full-Stack+Web+Apps+%E2%80%A2+Next.js+%26+TypeScript;Self-Hosting+with+Docker%2C+Linux+%26+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=680&lines=Backend+Developer+%E2%80%A2+Java+%26+Spring+Boot;REST+APIs%2C+Batch+Pipelines+%26+AI+Microservices;API-Driven+Web+Apps+%E2%80%A2+Next.js+%26+TypeScript;Self-Hosting+with+Docker%2C+Linux+%26+PostgreSQL" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-victor-460175269/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/JoseV-001?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JoseV-001/josev001-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://josev-001.github.io/josev001-portfolio/)
 [![Email](https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:Leaphaz@gmail.com)
 
 </div>
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-**Backend Developer** focused on **Java & Spring Boot**, building reliable APIs, practicing software architecture, and connecting services to full-stack web interfaces.
+**Backend Developer** focused on **Java & Spring Boot**, building reliable APIs, practicing software architecture, and integrating services into complete web applications.
 
-- ⚙️ **Backend Focus:** Designing REST APIs, batch jobs, and clean domain architectures with **Java & Spring Boot**.
-- 🤖 **Applied AI:** Integrating multi-agent financial microservices in **Python (FastAPI & Gemini)** with deterministic guardrails.
-- 🌐 **Full-Stack Delivery:** Building **Next.js & TypeScript** frontends to bring backend engines together into complete web applications.
+- ⚙️ **Backend Core:** Designing REST APIs, batch jobs, and clean domain architectures with **Java & Spring Boot**.
+- 🤖 **Applied AI & Microservices:** Building multi-agent financial services in **Python & FastAPI** with deterministic guardrails.
+- 🖥️ **Frontend Integration:** Building functional interfaces with **Next.js & TypeScript** to consume my APIs and deliver end-to-end usability.
 - 🐳 **Containers & Homelab:** Practicing **Docker, Linux, PostgreSQL, and Redis** by self-hosting my own apps on a home server and exploring cloud deployment on **AWS**.
 - 🇧🇷 Based in **Rio de Janeiro, Brazil**.
 
@@ -65,7 +65,7 @@
 | [**Fipe Search**](https://github.com/JoseV-001/Fipe-Search) | High-performance FIPE lookup PoC benchmarking Cache Stampede & Cache Warming strategies under Grafana k6 load tests. | `Java` `Spring Boot` `Redis` `PostgreSQL` `Docker` |
 | [**DSCommerce**](https://github.com/JoseV-001/dscommerce) | RESTful e-commerce API with product catalog, order lifecycle management, and OAuth2/JWT role-based authentication. | `Java` `Spring Boot` `Spring Security` `OAuth2/JWT` |
 | [**Workshop**](https://github.com/JoseV-001/workshop) | Layered REST web services application with JPA/Hibernate, PostgreSQL, test profiles, and cloud deployment. | `Java` `Spring Boot` `JPA/Hibernate` `PostgreSQL` |
-| [**Portfolio**](https://github.com/JoseV-001/josev001-portfolio) | Responsive personal portfolio showcasing projects, architecture notes, and contact links. | `HTML5` `CSS3` `JavaScript` |
+| [**Portfolio**](https://josev-001.github.io/josev001-portfolio/) | Responsive personal portfolio showcasing projects, architecture notes, and contact links. | `HTML5` `CSS3` `JavaScript` |
 
 > Explore all repositories on my [GitHub profile](https://github.com/JoseV-001?tab=repositories).
 
@@ -91,8 +91,7 @@
 ![Hibernate & JPA](https://img.shields.io/badge/Hibernate_&_JPA-1E1B4B?style=for-the-badge&logo=hibernate&logoColor=C084FC)
 ![Flyway](https://img.shields.io/badge/Flyway-1E1B4B?style=for-the-badge&logo=flyway&logoColor=C084FC)
 ![JUnit](https://img.shields.io/badge/JUnit-1E1B4B?style=for-the-badge&logo=junit5&logoColor=C084FC)
-![Grafana k6](https://img.shields.io/badge/Grafana_k6-1E1B4B?style=for-the-badge&logo=k6&logoColor=C084FC)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=C084FC)
+![Grafana k6](https://img.shields.io/badge/Grafana_k6-1E1B4B?style=for-the-badge&logo=grafana&logoColor=C084FC)
 
 </div>
 
