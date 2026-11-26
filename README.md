@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-victor-460175269/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/JoseV-001?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://josev-001.github.io/josev001-portfolio/)
-[![Email](https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:Leaphaz@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=C084FC)](mailto:victojose46@gmail.com)
 
 </div>
 
@@ -51,7 +51,7 @@
       <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Flyway</code> <code>Docker</code> <code>REST APIs</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JoseV-001/filepack-api-ecs"><b>☁️ FilePack API ECS</b></a><br/>
+      <a href="https://github.com/JoseV-001/deploy-de-aplicacoes-na-aws-com-ecs-fargate"><b>☁️ FilePack API ECS</b></a><br/>
       <sub>Cloud-native AES-encrypted ZIP packaging service provisioned via AWS CloudFormation IaC with Multi-AZ distribution, CPU Step Scaling, CloudWatch observability, and Grafana k6 load validation.</sub><br/><br/>
       <code>Java</code> <code>Spring Boot</code> <code>AWS ECS Fargate</code> <code>CloudFormation</code> <code>k6</code>
     </td>
